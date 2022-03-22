@@ -1,0 +1,13 @@
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\bin\Debug\netcoreapp3.1\LinguaKoglin.exe
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\bin\Debug\netcoreapp3.1\LinguaKoglin.deps.json
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\bin\Debug\netcoreapp3.1\LinguaKoglin.runtimeconfig.json
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\bin\Debug\netcoreapp3.1\LinguaKoglin.runtimeconfig.dev.json
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\bin\Debug\netcoreapp3.1\LinguaKoglin.dll
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\bin\Debug\netcoreapp3.1\LinguaKoglin.pdb
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\obj\Debug\netcoreapp3.1\LinguaKoglin.csproj.AssemblyReference.cache
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\obj\Debug\netcoreapp3.1\LinguaKoglin.AssemblyInfoInputs.cache
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\obj\Debug\netcoreapp3.1\LinguaKoglin.AssemblyInfo.cs
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\obj\Debug\netcoreapp3.1\LinguaKoglin.csproj.CoreCompileInputs.cache
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\obj\Debug\netcoreapp3.1\LinguaKoglin.dll
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\obj\Debug\netcoreapp3.1\LinguaKoglin.pdb
+C:\Users\caiob\source\repos\F360teste\LinguaKoglin\LinguaKoglin\obj\Debug\netcoreapp3.1\LinguaKoglin.genruntimeconfig.cache
